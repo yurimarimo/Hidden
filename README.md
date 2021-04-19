@@ -1,3 +1,3 @@
 # Hidden
 
-`sh hidden.sh`
+`$ sh hidden.sh`
